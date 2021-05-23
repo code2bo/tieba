@@ -10,5 +10,3 @@
 
 
 基于 [TiebaSignIn](https://github.com/srcrs/TiebaSignIn) 修改添加 Telegram 通知
-
-教程可看 [利用 Github Actions 每天定时自动签到贴吧](https://blog.imzjw.cn/posts/actions-tieba/)
