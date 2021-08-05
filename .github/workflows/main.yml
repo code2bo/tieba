@@ -5,8 +5,8 @@ name: 签到
 on:
    push:
    gollum:
-   schedule:
-       - cron: '30 22 * * *'
+   #schedule:
+       #- cron: '30 22 * * *'
 
 jobs:
   Tieba:
